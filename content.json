@@ -1,0 +1,21 @@
+{
+  "company": {
+    "name": "Vero Design & Build Ltd",
+    "tagline": "Considered spaces. Beautifully built.",
+    "intro": "Residential design, construction & renovation across Surrey",
+    "phone": {"display": "07581 240938", "dial": "+447581240938"},
+    "whatsapp": "447581240938",
+    "email": "Enquiries@verodesignandbuild.co.uk",
+    "domain": "www.verodesignandbuild.com",
+    "area": "Surrey & surrounding areas",
+    "towns": ["Esher","Weybridge","Cobham","Oxshott","Guildford","Godalming","Farnham","Reigate","Epsom","Leatherhead","Woking","Dorking"]
+  },
+  "services": [
+    {"slug":"extensions","title":"Extensions","summary":"Rear, side return and wrap-around extensions that sit naturally against the existing house."},
+    {"slug":"loft-conversions","title":"Loft Conversions","summary":"Dormer, hip-to-gable and rooflight conversions designed to feel like part of the original house."},
+    {"slug":"refurbishments","title":"Refurbishments","summary":"Whole-house refurbishment, from strip-out and services through to the final finish."},
+    {"slug":"kitchens","title":"Kitchens","summary":"Kitchen renovation including the structural and service work that sits behind the finish."},
+    {"slug":"bathrooms","title":"Bathrooms","summary":"Bathrooms, en-suites and wet rooms, tanked and finished properly."},
+    {"slug":"design-and-build","title":"Design & Build","summary":"One contract covering design, approvals, structural work and construction."}
+  ]
+}

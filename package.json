@@ -1,0 +1,9 @@
+{
+  "name": "vero-design-build",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "type": "module"
+}
